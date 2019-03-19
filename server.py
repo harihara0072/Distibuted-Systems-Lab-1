@@ -1,29 +1,3 @@
-###################################################################
-#References:
-#https://docs.python.org/2/library/socket.html
-#https://stackoverflow.com/questions/21153262/sending-html-through-python-socket-server
-#http://blog.wachowicz.eu/?p=256
-#https://www.thoughtco.com/building-a-simple-web-server-2813571
-#https://elearn.uta.edu/bbcswebdav/pid-7205400-dt-content-rid-132005341_2/courses/2185-COMPUTER-NETWORKS-54684-003/Programming%20Assignment%201_reference_Python.pdf
-#https://stackoverflow.com/questions/32168871/tkinter-with-multiple-threads
-#https://stackoverflow.com/questions/42222425/python-sockets-multiple-messages-on-same-connection
-#https://www.programcreek.com/python/example/105552/tkinter.Message
-#https://stackoverflow.com/questions/29158220/tkinter-understanding-mainloop
-#https://scorython.wordpress.com/2016/06/27/multithreading-with-tkinter/
-#https://docs.python.org/3/tutorial/classes.html
-#https://stackoverflow.com/questions/46788776/update-tkinter-widget-from-main-thread-after-worker-thread-completes
-#https://stackoverflow.com/questions/3567238/threaded-tkinter-script-crashes-when-creating-the-second-toplevel-widget
-#https://stackoverflow.com/questions/10556479/running-a-tkinter-form-in-a-separate-thread/10556698#10556698
-#https://bugs.python.org/issue11077
-#https://github.com/dojafoja/GUI-python-server/blob/master/server.py
-#https://likegeeks.com/python-gui-examples-tkinter-tutorial/
-#https://stackoverflow.com/questions/459083/how-do-you-run-your-own-code-alongside-tkinters-event-loop
-#https://www.geeksforgeeks.org/python-gui-tkinter/
-#https://stackoverflow.com/questions/9342757/tkinter-executing-functions-over-time
-#https://stackoverflow.com/questions/9776718/how-do-i-stop-tkinter-after-function
-#https://stackoverflow.com/questions/49432915/how-to-break-out-of-an-infinite-loop-with-a-tkinter-button
-#https://stackoverflow.com/questions/49742217/python-socket-threading-tkinter-how-to-know-the-message-sender
-###################################################################
 
 #Name: Hari Hara Kummi Nakshatrala
 #import all the packages
